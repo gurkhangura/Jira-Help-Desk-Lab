@@ -1,6 +1,18 @@
 # Jira-Help-Desk-Lab
 A simulated enterprise IT Help Desk environment built in Jira Service Management. This lab demonstrates practical incident management, active ticket lifecycles, SLA tracking, and professional technical documentation across identity management, networking, hardware, and security escalations.
 
+## Skills Demonstrated
+- Jira Service Management ticketing
+- SLA tracking and queue management
+- Active Directory account troubleshooting
+- Windows endpoint troubleshooting
+- Wi-Fi and network troubleshooting
+- Printer spooler and hardware support
+- Shared drive permissions and RBAC
+- Phishing escalation and security triage
+- Technical documentation
+- Customer communication
+
 ## The Master Queue
 ![Master Queue Dashboard](1_Master_Help_Desk_Queue.png)
 
